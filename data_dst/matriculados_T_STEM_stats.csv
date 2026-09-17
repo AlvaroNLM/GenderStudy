@@ -1,0 +1,7 @@
+﻿Titulacion,Num_Cursos,Media_Total,Total_Periodo,Total_Mujeres_Periodo,Total_Hombres_Periodo,Media_Porcentaje_Mujeres,Media_Porcentaje_Hombres,Porcentaje_Global_Mujeres,Porcentaje_Global_Hombres,Min_Porcentaje_Mujeres,Max_Porcentaje_Mujeres,Min_Porcentaje_Hombres,Max_Porcentaje_Hombres,DesvStd_Porcentaje_Mujeres,DesvStd_Porcentaje_Hombres,Rango_Porcentaje_Mujeres,Primer_Curso,Porcentaje_Mujeres_Primer_Curso,Porcentaje_Hombres_Primer_Curso,Ultimo_Curso,Porcentaje_Mujeres_Ultimo_Curso,Porcentaje_Hombres_Ultimo_Curso,Cambio_Mujeres_pp,Cambio_Hombres_pp
+INGENIERÍA BIOMÉDICA,5,65.8,329,187,142,57.01,42.99,56.84,43.16,50.7,71.88,28.12,49.3,8.6,8.6,21.18,21-22,55.38,44.62,25-26,55.56,44.44,0.18,-0.18
+INGENIERÍA EN INTELIGENCIA ARTIFICIAL,3,64.0,192,33,159,17.18,82.82,17.19,82.81,4.69,24.62,75.38,95.31,10.88,10.88,19.93,23-24,24.62,75.38,25-26,4.69,95.31,-19.93,19.93
+INGENIERÍA EN SONIDO E IMAGEN EN TELECOMUNICACIÓN,5,71.2,356,89,267,24.87,75.13,25.0,75.0,19.72,29.49,70.51,80.28,3.97,3.97,9.77,21-22,28.0,72.0,25-26,24.59,75.41,-3.41,3.41
+INGENIERÍA INFORMÁTICA,5,216.8,1084,168,916,15.43,84.57,15.5,84.5,11.9,19.11,80.89,88.1,3.05,3.05,7.21,21-22,11.9,88.1,25-26,19.11,80.89,7.21,-7.21
+INGENIERÍA MULTIMEDIA,5,102.6,513,123,390,23.86,76.14,23.98,76.02,14.29,31.73,68.27,85.71,6.53,6.53,17.44,21-22,14.29,85.71,25-26,23.53,76.47,9.24,-9.24
+INGENIERÍA ROBÓTICA,5,67.0,335,69,266,20.7,79.3,20.6,79.4,14.49,28.12,71.88,85.51,5.52,5.52,13.63,21-22,16.42,83.58,25-26,28.12,71.88,11.7,-11.7
